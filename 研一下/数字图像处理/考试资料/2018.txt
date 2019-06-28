@@ -1,0 +1,27 @@
+Question One£º
+	1.Median filter & characterisitcs.
+	2.Difference between lossess compression and lossy compression;at least 2 typical methods of them.
+	3.Image enhancement and image restoration difference.
+	4.Main purposes of image smoothing and sharpening.
+	5.Which color model is more closer to human vision system ?why?
+
+Question Two:
+	Robert operators.
+
+Question Three:
+	Euler number.
+
+Question Four:
+	MAT skeleton extraction.
+
+Question Five:
+	Image histogram equalization.
+
+Question Six:
+	Erosion and dilation applications.
+	Closing operation.
+
+Question Seven:
+	Run-length coding.
+	Huffman coding.
+	Hybird coding.
